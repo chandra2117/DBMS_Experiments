@@ -1,11 +1,11 @@
 # DBMS Laboratory Manual Submission
 
-## 🎓 Course: 19CS404 Database Management System and its Applications  
-## 🧑‍🏫 Instructor: Ms. G Abinaya 
+## Course: 19CS404 Database Management System and its Applications  
+## Instructor: Ms. G Abinaya 
 
 ![image](https://github.com/user-attachments/assets/7e6f9751-b530-4526-9a3d-8e322e3b2e6d)
 
-### 📝 Instructions for Students
+### Instructions for Students
 
 1. Fork this repository to your GitHub profile.
 2. For each experiment:
@@ -15,9 +15,9 @@
      1. `README.md`
 
         This file contains:
-         - 🎯 **Aim**
-         - 📚 **Theory**
-         - 📝 **Result**
+         -  **Aim**
+         -  **Theory**
+         -  **Result**
         
         You **do not need to edit** this file unless instructed.
       3. `output.md`
@@ -30,7 +30,7 @@
 3. Commit and push your changes.
 4. Create a pull request to the original repository
 
-### ✅ Experiments List
+###  Experiments List
 
 | Exp No | Title                          | Module Based? |
 |--------|--------------------------------|---------------|
